@@ -13,6 +13,7 @@ File Manager with all the functions you need! For windows.
 * **Files**: move, copy, paste, rename, send to trash, empty trash
 * **4 File views**: grid, column, list and gallery.
 * **Tags**: tag your files!
+* **Hidden files**: hide and unhide!
 * ...and many more!
 
 ## Setup:
