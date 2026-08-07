@@ -35,3 +35,7 @@ To open files in external default apps or to open folders in terminal, add the p
 * PyMuPDF
 * mutagen
 * python-docx
+
+## to do: 
+create a helper method to get all the custom message boxes and simplify the code. But for now i'm not touching it because the code works :)
+
