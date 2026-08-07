@@ -24,6 +24,7 @@ Don't use `--onefile` flag, because it will slow down the app!
 
 To open files in external default apps or to open folders in terminal, add the paths to the executables in the code! I use my custom programs, so I left the paths empty.
 
+If you don't like the icons, just use your own set!
 
 ## Requirements:
 
