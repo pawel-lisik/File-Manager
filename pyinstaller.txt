@@ -1,0 +1,14 @@
+pyinstaller --noupx --noconsole --icon="icon.ico" main.py
+
+
+
+
+
+
+
+
+
+
+
+
+
