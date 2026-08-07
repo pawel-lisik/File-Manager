@@ -21,6 +21,8 @@ File Manager with all the functions you need! For windows.
 
 Don't use `--onefile` flag, because it will slow down the app!
 
+To open files in external default apps or to open folders in terminal, add the paths to the executables in the code! I use my custom programs, so I left the paths empty.
+
 
 ## Requirements:
 
